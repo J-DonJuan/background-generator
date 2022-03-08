@@ -1,0 +1,9 @@
+Here we shall list some git commands, ftw of course.
+
+git status
+
+git add <file name>
+
+git commit -m "comment for github add"
+
+git push (pushes to github)
