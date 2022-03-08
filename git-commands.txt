@@ -1,9 +1,18 @@
 Here we shall list some git commands, ftw of course.
 
+Git commands won't work unless you're in a folder that has a .git folder, except git clone.
+
+git clone (HTTPS link)
+
 git status
 
-git add <file name>
+git add <file name> (Stages file for commit)
 
 git commit -m "comment for github add"
 
 git push (pushes to github)
+
+git add . (Stages multiple files at the same time)
+
+
+
