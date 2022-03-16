@@ -1,0 +1,15 @@
+pwd (show present working directory)
+code <file name> (Opens file with Visual Studio Code)
+
+mkdir <directory name> (create directory)
+rm -r <directory> (delete directory and all sub-directories that it contains)
+touch <file name> (creates file)
+rm <file name> (delete fle)
+
+cp <file name> <file name to copy into> (Copy a file into another file)
+cp <file name> <directory> (Make a copy of a file and put it into directory)
+mv <file name> <directory> (Move file into another directory)
+
+cat <file name> (outputs contents of file)
+cat <file name> | echo <string> (outputs lines of file that match given string)
+

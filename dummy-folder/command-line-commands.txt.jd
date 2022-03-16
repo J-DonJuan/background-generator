@@ -1,0 +1,10 @@
+$ code <file name> (Opens file with Visual Studio Code)
+
+mkdir <directory name> (create directory)
+touch <file name> (creates file)
+rm -r <directory> (delete directory and all sub-directories that it contains)
+cp <file name to copy> <file to copy into> (Copy a file into another file)
+
+cat <file name> (outputs contents of file)
+cat <file name> | echo <string> (outputs lines of file that match given string)
+
