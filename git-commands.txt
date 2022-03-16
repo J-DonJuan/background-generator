@@ -14,5 +14,7 @@ git push (pushes to github)
 
 git add . (Stages multiple files at the same time) -After this when you run a git status you should see a "Your branch is ahead of 'origin/main' by 1 commit." message.
 
+Finishing up Linux git integration.
+
 
 
